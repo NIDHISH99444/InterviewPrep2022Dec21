@@ -1,0 +1,105 @@
+Array
+
+Two Sum                                         Done
+Best Time to Buy and Sell Stock                 Done
+Contains Duplicate                              Done
+Product of Array Except Self                    Done
+Maximum Subarray                                Done
+Maximum Product Subarray
+Find Minimum in Rotated Sorted Array            Done
+Search in Rotated Sorted Array                  Done
+3 Sum                                           Done
+Container With Most Water                       Done
+
+Binary
+
+Sum of Two Integers
+Number of 1 Bits
+Counting Bits
+Missing Number
+Reverse Bits
+
+Dynamic Programming
+
+Climbing Stairs                                 Done
+Coin Change                                     Done
+Longest Increasing Subsequence                  Done
+Longest Common Subsequence                      Done
+Word Break Problem
+Combination Sum
+House Robber                                    Done
+House Robber II                                 Done
+Decode Ways
+Unique Paths                                    Done
+Jump Game                                       Done
+
+Graph
+
+Clone Graph
+Course Schedule
+Pacific Atlantic Water Flow
+Number of Islands                               None
+Longest Consecutive Sequence
+Alien Dictionary (Leetcode Premium)
+Graph Valid Tree (Leetcode Premium)
+Number of Connected Components in an Undirected Graph (Leetcode Premium)
+
+Interval
+
+Insert Interval                                 Done
+Merge Intervals                                 Done
+Non-overlapping Intervals                       Done(R)
+Meeting Rooms (Leetcode Premium)                Done
+Meeting Rooms II (Leetcode Premium)
+
+Linked List
+
+Reverse a Linked List                           Done
+Detect Cycle in a Linked List                   Done
+Merge Two Sorted Lists                          Done
+Merge K Sorted Lists
+Remove Nth Node From End Of List                Done
+Reorder List
+
+Matrix
+
+Set Matrix Zeroes                               Done
+Spiral Matrix                                   Done
+Rotate Image                                    Done
+Word Search                                     Done
+
+String
+
+Longest Substring Without Repeating Characters          Done
+Longest Repeating Character Replacement                 Done (R)
+Minimum Window Substring                                Done
+Valid Anagram                                           Done
+Group Anagrams                                          Done
+Valid Parentheses                                       Done
+Valid Palindrome                                        Done
+Longest Palindromic Substring                           Done
+Palindromic Substrings                                  Done
+Encode and Decode Strings (Leetcode Premium)
+
+Tree
+
+Maximum Depth of Binary Tree
+Same Tree
+Invert/Flip Binary Tree
+Binary Tree Maximum Path Sum
+Binary Tree Level Order Traversal
+Serialize and Deserialize Binary Tree
+Subtree of Another Tree
+Construct Binary Tree from Preorder and Inorder Traversal
+Validate Binary Search Tree
+Kth Smallest Element in a BST
+Lowest Common Ancestor of BST
+Implement Trie (Prefix Tree)
+Add and Search Word
+Word Search II
+
+Heap
+
+Merge K Sorted Lists
+Top K Frequent Elements                     Done
+Find Median from Data Stream                Done

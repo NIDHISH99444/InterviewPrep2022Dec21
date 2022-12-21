@@ -1,0 +1,11 @@
+
+
+1> Min Stack                                Done (R)
+2> Next Greatest Right                      Done
+3> Next smallest left                       Done
+4> Maximimum Area of Histogram              Done
+5> Daily Temperatures                       Done
+6> Maximum Area Binary Matrix               Done
+7> Implement Stack using Queues             Done (R)
+8>
+

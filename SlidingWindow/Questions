@@ -1,0 +1,13 @@
+
+
+Fixed Size
+
+1> Maximmum Sum Subarray of Size k
+2> First Negative number in window of size k
+3> Count occurance of anagram
+4> Sliding Window Maximum
+
+Variable Size
+
+1> Largest subarray of sum k     (R)
+2> Longest Substring k unique    (R)
